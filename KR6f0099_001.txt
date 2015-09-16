@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:43.963855
+#+DATE: 2015-08-30 20:02:44.712214
 #+TITLE: 後出阿彌陀佛偈
 #+PROPERTY: CBETA_ID T12n0373
 #+PROPERTY: ID KR6f0099
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 373
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6f0099_T_000-0364b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0099_T_001-0364b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.373¶
-
- 後出阿彌陀佛偈¶
+No. 373¶
+後出阿彌陀佛偈經¶
 ¶
-古舊錄云闕譯人名，今紀後漢錄¶
+後漢失譯師名¶
 
 #+BEGIN_VERSE
 「　惟念法比丘，
@@ -52,18 +51,18 @@ No.373¶
 　菩薩及弟子，
 　不可算稱量。¶
 　若欲見彼佛，
-　莫疑亦莫忘；¶
+　莫疑亦莫望；¶
 　有疑在胎中，
 　不合五百年。
 <pb:KR6f0099_T_001-0364c>¶
-　不疑生基坐，
+　不疑生臺坐，
 　叉手無量前，¶
 　願欲遍十方，
 　須臾則旋還。¶
 　惟念彼菩薩，
 　姟劫作功勤，¶
 　本行如此致，
-　得號會世尊！¶
+　得號憎世尊！¶
 　佛興難得值，
 　須臾會難聞，¶
 　講說士難遇，
@@ -73,9 +72,9 @@ No.373¶
 　當共建擁護，
 　行佛無欲法。¶
 　佛能說此要，
-　各各勤思行；¶
-　受此無量福，
+　各當勤思行；¶
+　弘此無量誓，
 　世世稽首行。
 #+END_VERSE
 」¶
-後出阿彌陀佛偈
+後出阿彌陀佛偈經
