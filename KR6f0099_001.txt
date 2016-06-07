@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:44.898282
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:04
 #+TITLE: 後出阿彌陀佛偈
 #+PROPERTY: CBETA_ID T12n0373
 #+PROPERTY: ID KR6f0099
@@ -74,7 +74,7 @@ No. 373¶
 　佛能說此要，
 　各各勤思行；¶
 　受此無量福，
-　世世稽首行。
+　世世稽首行。」
 #+END_VERSE
-」¶
+¶
 後出阿彌陀佛偈
